@@ -1,0 +1,11 @@
+# Reviews warehouse automation 887 Hub
+> A modern digital agency resource based in Seattle, WA.
+
+## Site Index
+- [Home Page](/index.html): Portal overview for our services.
+- [About Us](/about.html): Our background and history.
+- [Contact](/contact.html): Office locations and communication form.
+## Publications
+- [Securing API Communications in Decentralized Systems](/securing-api-communications-in-decentralized-systems.html)
+- [Geotargeting Strategies for Distributed Networks](/geotargeting-strategies-for-distributed-networks.html)
+- [Seasonal Wellness: Adapting Your Routine Throughout the Year](/seasonal-wellness-adapting-your-routine-throughout-the-year.html)
